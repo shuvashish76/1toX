@@ -1,0 +1,60 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:2:1-29:12
+INJECTED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:2:1-29:12
+INJECTED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:2:1-29:12
+MERGED from [de.cketti.library.changelog:ckchangelog:1.2.2] /home/user/.gradle/caches/transforms-1/files-1.1/ckchangelog-1.2.2.aar/864a8b739a06aa0561b8bfaa2f0160fd/AndroidManifest.xml:2:1-11:12
+INJECTED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:2:1-29:12
+INJECTED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:3:5-28
+	android:versionName
+		ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:5:5-31
+		INJECTED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml
+		INJECTED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:4:5-28
+		INJECTED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml
+		INJECTED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml
+uses-sdk
+ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:7:5-9:41
+MERGED from [de.cketti.library.changelog:ckchangelog:1.2.2] /home/user/.gradle/caches/transforms-1/files-1.1/ckchangelog-1.2.2.aar/864a8b739a06aa0561b8bfaa2f0160fd/AndroidManifest.xml:7:5-43
+MERGED from [de.cketti.library.changelog:ckchangelog:1.2.2] /home/user/.gradle/caches/transforms-1/files-1.1/ckchangelog-1.2.2.aar/864a8b739a06aa0561b8bfaa2f0160fd/AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:8:9-34
+application
+ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:11:5-27:19
+MERGED from [de.cketti.library.changelog:ckchangelog:1.2.2] /home/user/.gradle/caches/transforms-1/files-1.1/ckchangelog-1.2.2.aar/864a8b739a06aa0561b8bfaa2f0160fd/AndroidManifest.xml:9:5-20
+MERGED from [de.cketti.library.changelog:ckchangelog:1.2.2] /home/user/.gradle/caches/transforms-1/files-1.1/ckchangelog-1.2.2.aar/864a8b739a06aa0561b8bfaa2f0160fd/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:15:9-40
+activity#org.og8.a1tox.MainActivity
+ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:16:9-26:20
+	android:screenOrientation
+		ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:20:13-49
+	android:label
+		ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:19:13-45
+	android:configChanges
+		ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:18:13-74
+	android:name
+		ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:17:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /mnt/DATA/Programs/1toX/source1toX/AndroidManifest.xml:24:27-74

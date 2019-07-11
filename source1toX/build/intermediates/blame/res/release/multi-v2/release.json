@@ -1,0 +1,396 @@
+{
+    "logs": [
+        {
+            "outputFile": "/mnt/DATA/Programs/1toX/source1toX/build/intermediates/res/merged/release/values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/ckchangelog-1.2.2.aar/864a8b739a06aa0561b8bfaa2f0160fd/res/values-el/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "201,258,314,375,439",
+                        "endColumns": "56,55,60,63,95",
+                        "endOffsets": "253,309,370,434,530"
+                    }
+                },
+                {
+                    "source": "/mnt/DATA/Programs/1toX/source1toX/res/values-el/strings.xml",
+                    "from": {
+                        "startLines": "-1,3,-1,-1",
+                        "startColumns": "-1,4,-1,-1",
+                        "startOffsets": "-1,56,-1,-1",
+                        "endColumns": "-1,41,-1,-1",
+                        "endOffsets": "-1,93,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,9,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "105,159,535,620",
+                        "endColumns": "53,41,84,112",
+                        "endOffsets": "154,196,615,728"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/mnt/DATA/Programs/1toX/source1toX/build/intermediates/res/merged/release/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/mnt/DATA/Programs/1toX/source1toX/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,3,-1,-1",
+                        "startColumns": "-1,4,-1,-1",
+                        "startOffsets": "-1,56,-1,-1",
+                        "endColumns": "-1,41,-1,-1",
+                        "endOffsets": "-1,93,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,22,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "219,272,1484,1562",
+                        "endColumns": "52,41,77,77",
+                        "endOffsets": "267,309,1557,1635"
+                    }
+                },
+                {
+                    "source": "/mnt/DATA/Programs/1toX/source1toX/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "105,163",
+                        "endColumns": "57,55",
+                        "endOffsets": "158,214"
+                    }
+                },
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/ckchangelog-1.2.2.aar/864a8b739a06aa0561b8bfaa2f0160fd/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "314,374,425,479,535,632,672,734,814,880,990,1062,1131,1232,1301,1383",
+                        "endColumns": "59,50,53,55,96,39,61,79,65,109,71,68,100,68,81,100",
+                        "endOffsets": "369,420,474,530,627,667,729,809,875,985,1057,1126,1227,1296,1378,1479"
+                    }
+                },
+                {
+                    "source": "/mnt/DATA/Programs/1toX/source1toX/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "24,27",
+                        "startColumns": "4,4",
+                        "startOffsets": "1640,1723",
+                        "endLines": "26,29",
+                        "endColumns": "12,12",
+                        "endOffsets": "1718,1790"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/mnt/DATA/Programs/1toX/source1toX/build/intermediates/res/merged/release/values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "/mnt/DATA/Programs/1toX/source1toX/res/values-sr/strings.xml",
+                    "from": {
+                        "startLines": "-1,3,-1,-1",
+                        "startColumns": "-1,4,-1,-1",
+                        "startOffsets": "-1,56,-1,-1",
+                        "endColumns": "-1,41,-1,-1",
+                        "endOffsets": "-1,93,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,110,152,268",
+                        "endColumns": "54,41,115,128",
+                        "endOffsets": "105,147,263,392"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/mnt/DATA/Programs/1toX/source1toX/build/intermediates/res/merged/release/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "/mnt/DATA/Programs/1toX/source1toX/res/values-nl/strings.xml",
+                    "from": {
+                        "startLines": "-1,3,-1,-1",
+                        "startColumns": "-1,4,-1,-1",
+                        "startOffsets": "-1,56,-1,-1",
+                        "endColumns": "-1,41,-1,-1",
+                        "endOffsets": "-1,93,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,112,154,246",
+                        "endColumns": "56,41,91,93",
+                        "endOffsets": "107,149,241,335"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/mnt/DATA/Programs/1toX/source1toX/build/intermediates/res/merged/release/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "/mnt/DATA/Programs/1toX/source1toX/res/values-de/strings.xml",
+                    "from": {
+                        "startLines": "-1,3,-1,-1",
+                        "startColumns": "-1,4,-1,-1",
+                        "startOffsets": "-1,56,-1,-1",
+                        "endColumns": "-1,41,-1,-1",
+                        "endOffsets": "-1,93,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,9,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "105,163,528,615",
+                        "endColumns": "57,41,86,88",
+                        "endOffsets": "158,200,610,699"
+                    }
+                },
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/ckchangelog-1.2.2.aar/864a8b739a06aa0561b8bfaa2f0160fd/res/values-de/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "205,270,321,375,431",
+                        "endColumns": "64,50,53,55,96",
+                        "endOffsets": "265,316,370,426,523"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/mnt/DATA/Programs/1toX/source1toX/build/intermediates/res/merged/release/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/mnt/DATA/Programs/1toX/source1toX/res/values-sw720dp-land/dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "200",
+                        "endColumns": "58",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/mnt/DATA/Programs/1toX/source1toX/build/intermediates/res/merged/release/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/mnt/DATA/Programs/1toX/source1toX/res/values-es/strings.xml",
+                    "from": {
+                        "startLines": "-1,3,-1,-1",
+                        "startColumns": "-1,4,-1,-1",
+                        "startOffsets": "-1,56,-1,-1",
+                        "endColumns": "-1,41,-1,-1",
+                        "endOffsets": "-1,93,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,9,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "105,157,535,622",
+                        "endColumns": "51,41,86,93",
+                        "endOffsets": "152,194,617,711"
+                    }
+                },
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/ckchangelog-1.2.2.aar/864a8b739a06aa0561b8bfaa2f0160fd/res/values-es/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "199,268,324,377,438",
+                        "endColumns": "68,55,52,60,96",
+                        "endOffsets": "263,319,372,433,530"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/mnt/DATA/Programs/1toX/source1toX/build/intermediates/res/merged/release/values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/ckchangelog-1.2.2.aar/864a8b739a06aa0561b8bfaa2f0160fd/res/values-uk/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "224,279,330,390,444",
+                        "endColumns": "54,50,59,53,95",
+                        "endOffsets": "274,325,385,439,535"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,160,211,271,325",
+                        "endColumns": "54,50,59,53,95",
+                        "endOffsets": "155,206,266,320,416"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/mnt/DATA/Programs/1toX/source1toX/build/intermediates/res/merged/release/values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/ckchangelog-1.2.2.aar/864a8b739a06aa0561b8bfaa2f0160fd/res/values-sk/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "224,286,337,391,446",
+                        "endColumns": "61,50,53,54,95",
+                        "endOffsets": "281,332,386,441,537"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,167,218,272,327",
+                        "endColumns": "61,50,53,54,95",
+                        "endOffsets": "162,213,267,322,418"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/mnt/DATA/Programs/1toX/source1toX/build/intermediates/res/merged/release/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "/mnt/DATA/Programs/1toX/source1toX/res/values-fr/strings.xml",
+                    "from": {
+                        "startLines": "-1,3,-1,-1",
+                        "startColumns": "-1,4,-1,-1",
+                        "startOffsets": "-1,56,-1,-1",
+                        "endColumns": "-1,41,-1,-1",
+                        "endOffsets": "-1,93,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,110,152,244",
+                        "endColumns": "54,41,91,95",
+                        "endOffsets": "105,147,239,335"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/mnt/DATA/Programs/1toX/source1toX/build/intermediates/res/merged/release/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "/mnt/DATA/Programs/1toX/source1toX/res/values-pl/strings.xml",
+                    "from": {
+                        "startLines": "-1,3,-1,-1",
+                        "startColumns": "-1,4,-1,-1",
+                        "startOffsets": "-1,56,-1,-1",
+                        "endColumns": "-1,41,-1,-1",
+                        "endOffsets": "-1,93,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,9,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "105,160,520,602",
+                        "endColumns": "54,41,81,103",
+                        "endOffsets": "155,197,597,701"
+                    }
+                },
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/ckchangelog-1.2.2.aar/864a8b739a06aa0561b8bfaa2f0160fd/res/values-pl/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "202,263,314,370,424",
+                        "endColumns": "60,50,55,53,95",
+                        "endOffsets": "258,309,365,419,515"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/mnt/DATA/Programs/1toX/source1toX/build/intermediates/res/merged/release/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/ckchangelog-1.2.2.aar/864a8b739a06aa0561b8bfaa2f0160fd/res/values-ru/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "224,283,334,393,448",
+                        "endColumns": "58,50,58,54,95",
+                        "endOffsets": "278,329,388,443,539"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,164,215,274,329",
+                        "endColumns": "58,50,58,54,95",
+                        "endOffsets": "159,210,269,324,420"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/mnt/DATA/Programs/1toX/source1toX/build/intermediates/res/merged/release/values-eo_values-eo.arsc.flat",
+            "map": [
+                {
+                    "source": "/mnt/DATA/Programs/1toX/source1toX/res/values-eo/strings.xml",
+                    "from": {
+                        "startLines": "-1,3,-1,-1",
+                        "startColumns": "-1,4,-1,-1",
+                        "startOffsets": "-1,56,-1,-1",
+                        "endColumns": "-1,41,-1,-1",
+                        "endOffsets": "-1,93,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,107,149,230",
+                        "endColumns": "51,41,80,81",
+                        "endOffsets": "102,144,225,307"
+                    }
+                }
+            ]
+        }
+    ]
+}

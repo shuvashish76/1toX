@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "/mnt/DATA/Programs/1toX/source1toX/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/mnt/DATA/Programs/1toX/source1toX/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,3,-1,-1",
+                        "startColumns": "-1,4,-1,-1",
+                        "startOffsets": "-1,56,-1,-1",
+                        "endColumns": "-1,41,-1,-1",
+                        "endOffsets": "-1,93,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,22,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "219,272,1484,1562",
+                        "endColumns": "52,41,77,77",
+                        "endOffsets": "267,309,1557,1635"
+                    }
+                },
+                {
+                    "source": "/mnt/DATA/Programs/1toX/source1toX/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "105,163",
+                        "endColumns": "57,55",
+                        "endOffsets": "158,214"
+                    }
+                },
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/ckchangelog-1.2.2.aar/864a8b739a06aa0561b8bfaa2f0160fd/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "314,374,425,479,535,632,672,734,814,880,990,1062,1131,1232,1301,1383",
+                        "endColumns": "59,50,53,55,96,39,61,79,65,109,71,68,100,68,81,100",
+                        "endOffsets": "369,420,474,530,627,667,729,809,875,985,1057,1126,1227,1296,1378,1479"
+                    }
+                },
+                {
+                    "source": "/mnt/DATA/Programs/1toX/source1toX/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "24,27",
+                        "startColumns": "4,4",
+                        "startOffsets": "1640,1723",
+                        "endLines": "26,29",
+                        "endColumns": "12,12",
+                        "endOffsets": "1718,1790"
+                    }
+                }
+            ]
+        }
+    ]
+}

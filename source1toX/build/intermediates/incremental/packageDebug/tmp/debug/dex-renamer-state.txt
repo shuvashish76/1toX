@@ -1,0 +1,4 @@
+#Wed Jul 10 20:35:52 MEST 2019
+base.0=/mnt/DATA/Programs/1toX/source1toX/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/mnt/DATA/Programs/1toX/source1toX/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml",
+            "map": [
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/ckchangelog-1.2.2.aar/864a8b739a06aa0561b8bfaa2f0160fd/res/values-ru/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "224,283,334,393,448",
+                        "endColumns": "58,50,58,54,95",
+                        "endOffsets": "278,329,388,443,539"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,164,215,274,329",
+                        "endColumns": "58,50,58,54,95",
+                        "endOffsets": "159,210,269,324,420"
+                    }
+                }
+            ]
+        }
+    ]
+}
