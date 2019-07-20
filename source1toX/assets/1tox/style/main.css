@@ -20,8 +20,18 @@ h1.title {
   float: left; }
 
 .img_sn {
-  width: 22px;
-  height: 22px;
+  width: 30px;
+  height: 30px;
+}
+
+#settingsbtn {
+  display: inline-block;
+  padding-right: 10px;
+}
+
+#nightbtn {
+  display: inline-block;
+  padding-right: 10px;
 }
 
 @-webkit-keyframes move-up {
@@ -511,8 +521,27 @@ hr {
     display: inline-block;
     box-sizing: border-box;
     font-size: 14px;
-    max-width: 50%;
+    max-width: 45%;
     line-height: 1.65; }
+
+.img_sn {
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  top: 50%;
+}
+
+#settingsbtn {
+  display: inline-block;
+  position: relative;
+  padding-right: 25px;
+}
+
+#nightbtn {
+  display: inline-block;
+  position: relative;
+  padding-right: 0;
+}
 
   .restart-button {
     float: right;

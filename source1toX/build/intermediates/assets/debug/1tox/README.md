@@ -15,5 +15,3 @@ Changes and improvements are more than welcome! Feel free to fork and open a pul
 The code is free. Do whatever you want with it.
 1toX is licensed under the MIT license.
 
-## Donations
-No thanks.

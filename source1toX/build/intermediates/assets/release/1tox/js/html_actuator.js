@@ -41,6 +41,11 @@ HTMLActuator.prototype.showSettings = function () {
   this.settingsContainer.style.display = "block";
 };
 
+HTMLActuator.prototype.hideSettings = function () {
+  this.clearMessage();
+  this.settingsContainer.style.display = "none";
+};
+
 HTMLActuator.prototype.toggleSettings = function () {
   this.clearMessage();
   if (this.settingsContainer.style.display == "none")

@@ -1,5 +1,5 @@
 window.onload = function() {
-  var a = document.getElementById("night");
+  var a = document.getElementById("nightbtn");
   a.onclick = function() {
    	if (document.getElementsByTagName("html")[0].style.backgroundColor === "rgb(45, 48, 44)") {
    		document.getElementsByTagName("html")[0].style.backgroundColor = "#faf8ef";

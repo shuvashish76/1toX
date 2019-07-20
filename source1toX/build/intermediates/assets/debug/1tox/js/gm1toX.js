@@ -144,6 +144,7 @@ GameManager.prototype.get_box_positions = function () {
 GameManager.prototype.restart = function () {
   this.storageManager.clearGameState();
   this.actuator.continueGame(); // Clear the game won/lost message
+  this.hideSettings();
   this.gamemode = this.storageManager.getMode();
   this.level = this.storageManager.getStartlevel();
   this.timelevel = 1;
@@ -382,4 +383,10 @@ GameManager.prototype.toggleSettings = function () {
   this.action = "wait";
   this.clearBoard();
   this.actuator.showSettings();
+};
+
+GameManager.prototype.hideSettings = function () {
+  this.action = "wait";
+  this.clearBoard();
+  this.actuator.hideSettings();
 };
