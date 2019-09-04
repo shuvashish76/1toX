@@ -1,4 +1,0 @@
-#Sat Jul 20 20:19:11 MEST 2019
-base.0=/mnt/DATA/Programs/1toX/source1toX/build/intermediates/transforms/dexMerger/release/0
-path.0=classes.dex
-renamed.0=classes.dex

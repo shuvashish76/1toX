@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/mnt/DATA/Programs/1toX/source1toX/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/mnt/DATA/Programs/1toX/source1toX/build-types/release/jniLibs"/></dataSet></merger>
