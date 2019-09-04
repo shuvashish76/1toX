@@ -3,7 +3,7 @@
 Simple memorizer game to see how quick your brain works.
 The code is to build an android app. For the browser version, see [og8.org/1toX](https://og8.org/1toX).
 
-##Building
+## Building
 If you want to build from source just do
 
     git clone https://gitlab.com/og8org/1tox.git
